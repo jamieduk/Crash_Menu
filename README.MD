@@ -11,7 +11,9 @@ Github Link
 
 git clone https://github.com/jamieduk/Crash_Menu.git
 
-
+~~~
+Comes with file for disableing apport errors and backing up crash logs and clearing them all with a nice menu!
+~~~
 
 Manually do it?
 
