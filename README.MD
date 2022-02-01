@@ -1,5 +1,8 @@
 Ubuntu App Crash File Menu
 
+One Liner
+
+git clone https://github.com/jamieduk/Crash_Menu.git && cd Crash_Menu && sudo chmod +x *.sh && ./menu.sh
 
 
 Forum Link
